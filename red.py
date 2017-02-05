@@ -44,7 +44,7 @@ from io import TextIOWrapper
 #                 https://github.com/Rapptz/RoboDanny/
 #
 
-description = "Red - A multifunction Discord bot by Twentysix"
+description = "OK Cookie Monster - A multifunction Discord bot modded by Shbour"
 
 
 class Bot(commands.Bot):
